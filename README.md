@@ -22,19 +22,14 @@ git clone https://github.com/vadosik15/Heros.git
 
 cd Heros
 
-3. Install the dependencies:
+3. open 2 termina
 
-npm install
+4 first terminal ( cd back-heros) (npm i)
 
-4. Start the application:
+5 second terminal ( cd front-heros) (npm i)
 
-cd back-heros
-npm start
+6 after this in bouth terminal write (npm start)
 
-open another terminal
-
-cd Front-heros
-npm start
 
 
 The app should now be running on [http://localhost:3000](http://localhost:3000).

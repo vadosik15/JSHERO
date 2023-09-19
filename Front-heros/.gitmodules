@@ -1,0 +1,3 @@
+[submodule "front-heros"]
+	path = front-heros
+	url = https://github.com/vadosik15/Heros.git

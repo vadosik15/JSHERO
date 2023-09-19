@@ -1,0 +1,49 @@
+.formUpdate {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  font-size: 23px;
+  background-color: orange;
+  padding: 10px 40px;
+  width: 100%;
+  max-width: 640px;
+  &-container-input {
+    display: flex;
+    flex-direction: column;
+    &__img .image-container{
+      display: flex;
+    }
+  }
+}
+.container-form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+.input-hero {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+
+  min-width: 200px;
+  height: 30px;
+  padding-left: 10px;
+  font-size: 15px;
+
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  width: max-content
+}
+.custom-img-container {
+  display: flex;
+}
